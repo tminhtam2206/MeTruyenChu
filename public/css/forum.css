@@ -1,0 +1,26 @@
+.bg-dark-2{
+    background-color: #343a40!important;
+}
+
+.nav-item .nav-link:hover{
+    color: #DDD;
+}
+
+#thead-index>tr>th{
+    font-size: 12px !important;
+    font-weight: 400;
+    color: #919191;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.title{
+    font-weight: 700;
+    color: black;
+}
+
+.user{
+    color: #919191;
+}

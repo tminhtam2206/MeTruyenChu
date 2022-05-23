@@ -1,0 +1,42 @@
+.app-aside-light {
+    color: inherit;
+    background-color: #343a40;
+}
+
+.stacked-menu>.menu>.menu-item>.menu-link {
+    color: #c2c7d0;
+}
+
+/* .menu-item:hover{
+    background-color: #ddd;
+} */
+
+.menu-item .menu{
+    background-color: #343a40;
+}
+
+.has-active a span{
+    color: gold;
+}
+
+.stacked-menu>.menu>.menu-item.has-open>.menu-link, .stacked-menu>.menu>.menu-item>.menu-link:focus, .stacked-menu>.menu>.menu-item>.menu-link:hover {
+    color: #c2c7d0;
+    background-color: #343a40;
+}
+
+.stacked-menu .menu-item.has-active>.menu-link {
+    background-color: #ddd;
+    color: #346cb0;
+}
+
+.border-top {
+    border-top: 1px solid rgb(241 241 241 / 44%)!important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.has-active>span{
+    color: gold !important;
+}

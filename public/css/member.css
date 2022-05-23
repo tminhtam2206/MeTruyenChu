@@ -1,0 +1,80 @@
+.my-pagination>nav>ul{
+    justify-content: center!important;
+}
+
+.lock-stories{
+    background-color: #fffdf9;
+}
+
+#camera-icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+#preview-cover-story{
+    width: 175px;
+    height: 245px;
+}
+
+.cls{
+    clear: both;
+}
+
+#change-thumb-icon{
+    margin-right: 2px;
+    background-color: #FFF;
+}
+
+.frame-header-index{
+    height: 175px;
+    width: 100%;
+}
+
+.frame-atavar-index{
+    width: 90px;
+    position: absolute;
+    left: 43%;
+    top: 110px;
+}
+
+.frame-atavar-index>img{
+    width: 90px;
+    height: auto;
+}
+
+.frame-footer-index{
+    height: 218px;
+}
+
+.frame-footer-index>.row{
+    margin-top: 45px;
+    width: 100%;
+}
+
+.btn-cam{
+    color: #1f2d3d;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    box-shadow: none;
+}
+
+.btn-xanh{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    box-shadow: none;
+}
+
+.btn-xam{
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    box-shadow: none;
+}
+
+.container-frame-story{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 29px;
+}

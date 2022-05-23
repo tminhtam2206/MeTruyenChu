@@ -1,0 +1,21 @@
+User-agent: *
+
+Disallow: /app/*
+
+Disallow: /bootstrap/*
+
+Disallow: /config/*
+
+Disallow: /database/*
+
+Disallow: /resources/*
+
+Disallow: /routes/*
+
+Disallow: /vendor/*
+
+Disallow: /storrage/*
+
+Allow: /public/*
+
+Sitemap: http://tangkinhcac.atwebpages.com/sitemap.xml
